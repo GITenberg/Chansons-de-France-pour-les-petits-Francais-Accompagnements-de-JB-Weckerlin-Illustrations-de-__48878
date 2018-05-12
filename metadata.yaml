@@ -1,4 +1,5 @@
 _repo: Chansons-de-France-pour-les-petits-Francais-Accompagnements-de-JB-Weckerlin-Illustrations-de-__48878
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Boutet de Monvel, Louis-Maurice
@@ -11,12 +12,17 @@ contributor:
     deathdate: 1913
     gutenberg_agent_id: '33490'
     url: http://www.gutenberg.org/2009/agents/33490
+covers:
+- cover_type: archival
+  image_path: 48878-h/images/cover.jpg
 creator:
   author:
     agent_name: Weckerlin, Jean-Baptiste
     gutenberg_agent_id: '45015'
     url: http://www.gutenberg.org/2009/agents/45015
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48878#Chansons-de-France-pour-les-petits-Francais-Accompagnements-de-JB-Weckerlin-Illustrations-de-_
 gutenberg_bookshelf:
 - FR Illustrateurs
 - FR Chansons
